@@ -29,6 +29,12 @@ function mult(a, b) {
 console.log(a * b)
 
 
+function div(x,y){
+    return x/y;
+}
+function mul(x,y){
+	return x*y;
+}
 function div(x, y) {
     return x / y;
 
@@ -36,6 +42,8 @@ function div(x, y) {
         return x * y;
 
     }
+
+
 
 }
 //update the index.js
@@ -59,9 +67,10 @@ console.log(myOddnumber(myArr));
 //// 
 function sum(x, y) {
     return x + y;
-=======
 }
-
-
+console.log(sum(2, 3));
+/////
+function difference(x, y) {
+    return x - y;
 }
 console.log(sum(2, 3));
