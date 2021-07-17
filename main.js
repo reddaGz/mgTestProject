@@ -3,3 +3,5 @@ function display() {
     console.log("TDF WINS!");
   };
 }
+
+console.log("Tigray prevails");
