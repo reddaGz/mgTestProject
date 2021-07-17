@@ -29,6 +29,12 @@ function mult(a, b) {
 console.log(a * b)
 
 
+function div(x,y){
+    return x/y;
+}
+function mul(x,y){
+	return x*y;
+}
 function div(x, y) {
     return x / y;
 
@@ -36,6 +42,8 @@ function div(x, y) {
         return x * y;
 
     }
+
+
 
 }
 //update the index.js
