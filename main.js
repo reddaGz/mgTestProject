@@ -1,5 +1,5 @@
-function display(){
-    const war=()=>{
-        console.log(""TDF WINS!);
-    }
+function display() {
+  const war = () => {
+    console.log("TDF WINS!");
+  };
 }
