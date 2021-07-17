@@ -34,7 +34,52 @@ function div(x, y) {
   function mul(x, y) {
     return x * y;
   }
+    return x - y;
 }
 
+function mult(a, b) {
+    return a * b;
+}
+console.log(a * b)
+
+
+function div(x,y){
+    return x/y;
+}
+function mul(x,y){
+	return x*y;
+}
+function div(x, y) {
+    return x / y;
+
+    function mul(x, y) {
+        return x * y;
+
+    }
+
+
+
+<<<<<<< HEAD
 //updating
 console.log("jojojo");
+=======
+}
+//update the index.js
+{
+    this
+}
+////////////////////////
+function myOddnumber(arr) {
+    let result = [];
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] % 2 !== 0) {
+            result.push(arr[i]);
+        }
+    }
+    return result;
+}
+let myArr = [1, 2, 3, 4, 5, 6, 7, 8];
+console.log(myOddnumber(myArr));
+
+console.log("jajajjajaja");
+>>>>>>> 25633fcfd8f393f15abfb752a62a41954c1f2f17

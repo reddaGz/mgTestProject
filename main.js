@@ -4,3 +4,5 @@ function display() {
   };
 }
 console.log("win win");
+
+console.log("Tigray prevails");
