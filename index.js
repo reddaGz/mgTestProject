@@ -54,3 +54,10 @@ function myOddnumber(arr) {
 }
 let myArr = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(myOddnumber(myArr));
+
+//// 
+function sum(x, y) {
+    return x + y;
+
+}
+console.log(sum(2, 3));
