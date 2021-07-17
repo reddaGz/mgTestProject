@@ -5,3 +5,8 @@ function floor(x){
     return Math.floor(x)
 }
 console.log(add(2,3));
+console.log(add(2,3));
+
+function hello(){
+    console.log("hello")
+}
